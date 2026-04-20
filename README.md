@@ -256,7 +256,5 @@ sudo ovs-ofctl -O OpenFlow13 dump-flows s1 | grep -v 'n_packets=0'
 
 ---
 
-## Author
 
-SDN Mininet Simulation Project — Orange Problem  
-Individual submission
+
